@@ -34,3 +34,18 @@ The states code are such as follows:
 |2     | Flying    |
 |3     | Hit       |
 |4     | Exploding |
+
+### Color options
+
+|Color |HEX   |
+|:-----|:-----|
+|RED   |AA0000|
+|PURPLE|AA00AA|
+|PINK  |FF8888|
+|GREEN |008080|
+|BLUE  |0080A0|
+|WHITE |CCCCCC|
+|BLACK |555555|
+|GRAY  |888888|
+|ORANGE|FF8800|
+|YELLOW|DDDD00|
