@@ -1,4 +1,6 @@
-# Project Title
+# Orbit Defender
+
+<img src="cover.png" alt="Cover" style="width:100%; image-rendering:pixelated;">
 
 ## Table of Contents
 
@@ -7,8 +9,16 @@
 - [Code reference](#code-reference)
 
 ## About
+This is a game casually developed to learn TIC 80 using Lua.
+To play a free online version of this game, visit the [cartrige page](https://tic80.com/play?cart=4360) in TIC-80's site.
 
 ## How to install
+
+- Download and intall TIC-80 at [tic80.com](https://tic80.com).
+- In TIC-80 terminal, navigate to the folder where you want to instal and run the command `folder` to open the folder in your computer.
+- Open the folder in your terminal and clone this repository to it.
+- Go back to TIC-80, enter the cloned folder and press esc to edit the code.
+- More on how to use TIC-80 on [TIC-80 Wiki](https://github.com/nesbox/TIC-80/wiki).
 
 ## Code reference
 
